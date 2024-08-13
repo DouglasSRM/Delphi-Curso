@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/11 16:56:07.000.290,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 16:58:21.000.631,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 16:59:41.000.601,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 16:59:41.000.601,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\Unit1.fmx</Transaction>
+    <Transaction>2024/08/11 17:00:14.000.695,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\Calculadora.dproj</Transaction>
+    <Transaction>2024/08/11 17:00:27.000.234,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\Unit1.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\U_Calculadora.pas</Transaction>
+    <Transaction>2024/08/11 17:00:27.000.234,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\Unit1.fmx=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Calculadora\U_Calculadora.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
