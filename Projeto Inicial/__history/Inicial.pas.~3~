@@ -1,0 +1,31 @@
+unit Inicial;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons;
+
+type
+  TCad_Usuarios = class(TForm)
+    lb_cad_usuarios: TLabel;
+    btn_salvar_venda: TButton;
+    SpeedButton1: TSpeedButton;
+    btn_deletar: TButton;
+    btn_excluir: TButton;
+    txt_nome: TEdit;
+    lb_nome: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Cad_Usuarios: TCad_Usuarios;
+
+implementation
+
+{$R *.dfm}
+
+end.

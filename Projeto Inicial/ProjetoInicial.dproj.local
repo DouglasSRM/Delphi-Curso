@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/21 19:05:17.000.866,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/21 19:06:06.000.512,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Inicial.dfm=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/21 19:06:06.000.512,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Inicial.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/21 19:06:15.000.818,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoInicial.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/11 16:35:44.000.834,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 16:37:43.000.334,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Tela2.pas</Transaction>
+    <Transaction>2024/08/11 16:37:43.000.334,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Tela2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
