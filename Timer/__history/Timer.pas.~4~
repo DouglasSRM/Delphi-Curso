@@ -1,0 +1,31 @@
+unit Timer;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Buttons, Vcl.MPlayer, Vcl.ExtCtrls,
+  Vcl.StdCtrls;
+
+type
+  Tf_timer = class(TForm)
+    lb_minutos: TLabel;
+    lb_segundos: TLabel;
+    lb_1: TLabel;
+    t_tempo: TTimer;
+    MediaPlayer1: TMediaPlayer;
+    btn_play: TSpeedButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  f_timer: Tf_timer;
+
+implementation
+
+{$R *.dfm}
+
+end.
