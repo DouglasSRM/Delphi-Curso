@@ -1,0 +1,59 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object playercontrol: TMediaPlayerControl
+    Size.Width = 624.000000000000000000
+    Size.Height = 337.000000000000000000
+    Size.PlatformDefault = False
+    MediaPlayer = MediaPlayer1
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+  end
+  object btn_abrir: TButton
+    Position.X = 496.000000000000000000
+    Position.Y = 392.000000000000000000
+    TabOrder = 2
+    Text = 'Abrir'
+    OnClick = btn_abrirClick
+  end
+  object lb_arquivo: TLabel
+    AutoSize = True
+    Position.X = 248.000000000000000000
+    Position.Y = 376.000000000000000000
+    Size.Width = 160.000000000000000000
+    Size.Height = 16.000000000000000000
+    Size.PlatformDefault = False
+    Text = '(Nome do Arquivo)'
+    TabOrder = 4
+  end
+  object btn_play: TButton
+    Enabled = False
+    Position.X = 112.000000000000000000
+    Position.Y = 392.000000000000000000
+    Scale.X = 1.500000000000000000
+    Scale.Y = 1.500000000000000000
+    Size.Width = 57.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'playtoolbutton'
+    TabOrder = 5
+    Text = 'btn_play'
+    OnClick = btn_playClick
+  end
+  object MediaPlayer1: TMediaPlayer
+    Left = 32
+    Top = 360
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 32
+    Top = 416
+  end
+end
