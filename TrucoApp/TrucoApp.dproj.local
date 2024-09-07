@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/17 17:58:59.000.383,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/17 18:03:50.000.770,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Truco\Unit1.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/17 18:03:50.000.770,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Truco\Unit1.fmx=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/08/17 18:03:54.000.529,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Truco\TrucoApp.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/17 18:59:08.000.795,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Truco\Unit2.pas</Transaction>
+    <Transaction>2024/08/17 19:45:23.000.612,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Truco\Unit3.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="db96c6d20013" Android64="db96c6d20013"/>
+	</ActiveMobileDevice>
+</BorlandProject>
