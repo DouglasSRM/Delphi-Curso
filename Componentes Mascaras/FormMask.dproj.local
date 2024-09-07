@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/09/07 17:46:56.299,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/07 17:47:07.329,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\FormMask.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/07 17:47:22.453,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Componentes Mascaras\U_form.pas=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/07 17:47:22.453,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Componentes Mascaras\U_form.dfm=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/07 17:47:26.568,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Componentes Mascaras\FormMask.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\FormMask.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
