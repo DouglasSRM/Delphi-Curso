@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/07 16:55:39.000.040,=rtl.dcp</Transaction>
+    <Transaction>2024/09/07 16:55:51.000.513,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\FloatPanel.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/09/07 16:57:19.000.191,=vcl.dcp</Transaction>
+    <Transaction>2024/09/07 16:57:19.000.136,=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Componente Painel\Panel1.pas</Transaction>
+    <Transaction>2024/09/07 17:09:33.000.091,C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\Componente Painel\FloatPanel.dproj=C:\Users\dougl\OneDrive\Documentos\Embarcadero\Studio\Projects\FloatPanel.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
